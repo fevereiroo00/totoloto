@@ -1,0 +1,16 @@
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\totoloto\totoloto\bin\Debug\net6.0\totoloto.exe
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\totoloto\totoloto\bin\Debug\net6.0\totoloto.deps.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\totoloto\totoloto\bin\Debug\net6.0\totoloto.runtimeconfig.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\totoloto\totoloto\bin\Debug\net6.0\totoloto.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\totoloto\totoloto\bin\Debug\net6.0\ref\totoloto.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\totoloto\totoloto\bin\Debug\net6.0\totoloto.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\totoloto\totoloto\obj\Debug\net6.0\totoloto.GlobalUsings.g.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\totoloto\totoloto\obj\Debug\net6.0\totoloto.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\totoloto\totoloto\obj\Debug\net6.0\totoloto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\totoloto\totoloto\obj\Debug\net6.0\totoloto.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\totoloto\totoloto\obj\Debug\net6.0\totoloto.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\totoloto\totoloto\obj\Debug\net6.0\totoloto.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\totoloto\totoloto\obj\Debug\net6.0\totoloto.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\totoloto\totoloto\obj\Debug\net6.0\ref\totoloto.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\totoloto\totoloto\obj\Debug\net6.0\totoloto.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\totoloto\totoloto\obj\Debug\net6.0\totoloto.genruntimeconfig.cache
